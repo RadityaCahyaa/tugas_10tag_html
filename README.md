@@ -1,3 +1,4 @@
+```
 tugas_10tag_html
 
 Nama: Raditya Cahya Nugraha  
@@ -68,3 +69,4 @@ Tag <br> digunakan untuk membuat baris baru atau pindah ke baris berikutnya tanp
 10. <button>  
 Fungsi:  
 Tag <button> digunakan untuk membuat tombol yang bisa diklik oleh pengguna, biasanya digunakan untuk menjalankan aksi seperti mengirim data atau menjalankan fungsi tertentu.
+```
